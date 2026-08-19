@@ -40,3 +40,5 @@ clase-2-git-github/
 - Cuenta de GitHub activa.
 - (Opcional pero recomendado) [GitHub CLI](https://cli.github.com/) instalado y autenticado con `gh auth login`, para crear repos y pull requests desde la terminal.
 - Editor de código (VS Code) y terminal (bash/zsh/Git Bash en Windows).
+
+print f "\n## Bitácora creativa\n- Idea 1: catálogo interactivo de arte.\n- Idea 2: generador de mundos narrativos.\n" >> README.md
